@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "last-look",
+  "description": "last-look: a first-pass check for common legal, app store and good-practice mistakes. Not legal advice.",
+  "owner": {
+    "name": "Krunal Mevada",
+    "url": "https://github.com/KrunalSM"
+  },
+  "plugins": [
+    {
+      "name": "last-look",
+      "source": "./",
+      "description": "A first-pass check, not legal advice, for common legal, app store and good-practice mistakes in apps and sites.",
+      "category": "productivity",
+      "license": "MIT",
+      "homepage": "https://github.com/KrunalSM/last-look",
+      "repository": "https://github.com/KrunalSM/last-look"
+    }
+  ]
+}

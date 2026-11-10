@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "TrailNotes",
+    "slug": "trailnotes",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "example.trailnotes",
+      "infoPlist": {
+        "NSCameraUsageDescription": "TrailNotes uses the camera so you can attach a photo to a trail note.",
+        "NSLocationWhenInUseUsageDescription": "TrailNotes uses your location while the app is open to pin trail notes on the map."
+      }
+    },
+    "android": {
+      "package": "example.trailnotes",
+      "permissions": ["CAMERA", "ACCESS_FINE_LOCATION"]
+    },
+    "plugins": ["expo-camera", "expo-location", "expo-notifications"]
+  }
+}

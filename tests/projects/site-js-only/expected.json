@@ -1,0 +1,9 @@
+{
+  "planted": [
+    {"check": "trackers-before-consent", "file": null, "line": null}
+  ],
+  "must_not_confirm": [],
+  "clean": false,
+  "secrets": [],
+  "needs_browser": true
+}

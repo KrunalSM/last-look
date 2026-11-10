@@ -1,0 +1,10 @@
+{
+  "planted": [
+    {"check": "age-handling", "file": "src/app/layout.tsx", "line": 8, "evidence": "maybe"},
+    {"check": "parental-consent-unverified", "file": "src/app/api/signup/route.ts", "line": 11}
+  ],
+  "must_not_confirm": [],
+  "clean": false,
+  "secrets": [],
+  "needs_browser": false
+}

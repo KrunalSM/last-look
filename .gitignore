@@ -1,0 +1,5 @@
+.sources/
+tests/results/
+__pycache__/
+.superpowers/
+.claude/

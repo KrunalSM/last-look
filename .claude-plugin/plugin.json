@@ -1,0 +1,24 @@
+{
+  "name": "last-look",
+  "version": "0.1.0",
+  "description": "A first-pass check, not legal advice, for common legal, app store and good-practice mistakes in web, Android, iOS and cross-platform projects or live sites. India in depth; EU, UK, US, Apple and Google Play in part.",
+  "author": {
+    "name": "Krunal Mevada",
+    "url": "https://github.com/KrunalSM"
+  },
+  "license": "MIT",
+  "keywords": [
+    "compliance",
+    "privacy",
+    "dpdp",
+    "gdpr",
+    "app-store",
+    "google-play",
+    "launch-checklist"
+  ],
+  "skills": [
+    "./"
+  ],
+  "homepage": "https://github.com/KrunalSM/last-look",
+  "repository": "https://github.com/KrunalSM/last-look"
+}

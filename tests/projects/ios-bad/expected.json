@@ -1,0 +1,13 @@
+{
+  "planted": [
+    {"check": "permission-purpose-strings", "file": "FitBuddy/Info.plist", "line": 12},
+    {"check": "permission-at-launch", "file": "FitBuddy/AppDelegate.swift", "line": 13},
+    {"check": "prod-logging-personal-data", "file": "FitBuddy/AuthService.swift", "line": 11},
+    {"check": "store-data-disclosure", "file": null, "line": null, "evidence": "maybe"},
+    {"check": "privacy-policy-missing", "file": "FitBuddy/Info.plist", "line": null}
+  ],
+  "must_not_confirm": [],
+  "clean": false,
+  "secrets": [],
+  "needs_browser": false
+}

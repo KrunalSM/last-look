@@ -1,0 +1,7 @@
+- Where the business is based: India.
+- Countries I want users in: India and the US.
+- Countries my users are actually in: India and the US.
+- Stores: Apple App Store only.
+- Children: no. It is a fitness app for adults.
+- Selling or sharing data: I do not sell user data. I am not sure what else counts as sharing.
+- Live URL: none. It is an app, not a website.

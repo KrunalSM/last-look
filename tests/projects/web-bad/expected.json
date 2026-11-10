@@ -1,0 +1,32 @@
+{
+  "planted": [
+    {"check": "google-fonts-remote", "file": "src/app/layout.tsx", "line": 9},
+    {"check": "terms-acceptance-record", "file": "src/app/api/signup/route.ts", "line": 11},
+    {"check": "terms-change-notice", "file": "src/app/terms/page.tsx", "line": null},
+    {"check": "prechecked-consent", "file": "src/app/signup/page.tsx", "line": 11},
+    {"check": "trackers-before-consent", "file": "src/app/layout.tsx", "line": 12},
+    {"check": "session-replay-consent", "file": "src/components/Replay.tsx", "line": 7},
+    {"check": "secrets-in-client", "file": "src/app/checkout/page.tsx", "line": 5},
+    {"check": "open-database-rules", "file": "supabase/migrations/0001_init.sql", "line": 9},
+    {"check": "prod-logging-personal-data", "file": "src/app/api/signup/route.ts", "line": 18},
+    {"check": "privacy-policy-missing", "file": "src/app/layout.tsx", "line": null},
+    {"check": "account-deletion-missing", "file": "src/app/settings/page.tsx", "line": null},
+    {"check": "dark-pattern-urgency", "file": "src/components/OfferTimer.tsx", "line": 6},
+    {"check": "renewal-terms-checkout", "file": "src/app/checkout/page.tsx", "line": null},
+    {"check": "marketing-email-footer", "file": "src/emails/weekly-offers.html", "line": null},
+    {"check": "uploads-takedown-process", "file": "src/app/api/upload/route.ts", "line": null},
+    {"check": "grievance-officer-missing", "file": null, "line": null},
+    {"check": "ai-data-disclosure", "file": "src/app/api/chat/route.ts", "line": 5},
+    {"check": "image-alt-missing", "file": "src/app/flashcards/page.tsx", "line": 13},
+    {"check": "unauthenticated-data-route", "file": "src/app/api/profile/route.ts", "line": 7},
+    {"check": "rate-limit-missing", "file": "src/app/api/chat/route.ts", "line": 5, "evidence": "maybe"},
+    {"check": "open-source-licence-terms", "file": "src/lib/scheduler.ts", "line": 2, "evidence": "maybe"},
+    {"check": "regulated-field-present", "file": "src/app/api/paylater/route.ts", "line": 6, "evidence": "maybe"},
+    {"check": "cross-border-transfers", "file": "vercel.json", "line": 2, "evidence": "maybe"},
+    {"check": "retention-periods-unset", "file": "supabase/migrations/0001_init.sql", "line": null, "evidence": "maybe"}
+  ],
+  "must_not_confirm": ["age-handling"],
+  "clean": false,
+  "secrets": ["sk_test_FAKE0000000000000000"],
+  "needs_browser": false
+}

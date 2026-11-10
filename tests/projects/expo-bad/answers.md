@@ -1,0 +1,7 @@
+- Where the business is based: India.
+- Countries I want users in: India.
+- Countries my users are actually in: India.
+- Stores: both Google Play and the Apple App Store.
+- Children: no. It is a hiking notes app for adults.
+- Selling or sharing data: I do not sell user data. I am not sure what else counts as sharing.
+- Live URL: none. It is an app, not a website.

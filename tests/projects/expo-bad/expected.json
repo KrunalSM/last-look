@@ -1,0 +1,11 @@
+{
+  "planted": [
+    {"check": "permission-at-launch", "file": "App.tsx", "line": 13},
+    {"check": "prod-logging-personal-data", "file": "App.tsx", "line": 17},
+    {"check": "privacy-policy-missing", "file": "App.tsx", "line": null}
+  ],
+  "must_not_confirm": [],
+  "clean": false,
+  "secrets": [],
+  "needs_browser": false
+}

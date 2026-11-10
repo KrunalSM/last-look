@@ -1,0 +1,15 @@
+{
+  "planted": [
+    {"check": "permission-at-launch", "file": "app/src/main/java/example/fitbuddy/MainActivity.kt", "line": 16},
+    {"check": "prod-logging-personal-data", "file": "app/src/main/java/example/fitbuddy/AuthRepository.kt", "line": 9},
+    {"check": "account-deletion-missing", "file": "app/src/main/java/example/fitbuddy/SettingsActivity.kt", "line": null},
+    {"check": "store-data-disclosure", "file": null, "line": null, "evidence": "maybe"},
+    {"check": "prechecked-consent", "file": "app/src/main/res/layout/activity_main.xml", "line": 16},
+    {"check": "target-api-too-low", "file": "app/build.gradle.kts", "line": 12},
+    {"check": "privacy-policy-missing", "file": "app/src/main/java/example/fitbuddy/SettingsActivity.kt", "line": null}
+  ],
+  "must_not_confirm": [],
+  "clean": false,
+  "secrets": [],
+  "needs_browser": false
+}

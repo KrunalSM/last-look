@@ -1,0 +1,7 @@
+- Where the business is based: India.
+- Countries I want users in: India and the EU.
+- Countries my users are actually in: India and the EU.
+- Stores: none. This is a website only.
+- Children: no. It is for a general audience and not aimed at children.
+- Selling or sharing data: I do not sell user data. I am not sure what else counts as sharing.
+- Live URL: none yet. Please check the code only.

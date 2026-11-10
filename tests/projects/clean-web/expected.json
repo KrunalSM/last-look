@@ -1,0 +1,7 @@
+{
+  "planted": [],
+  "must_not_confirm": ["google-fonts-remote", "age-handling"],
+  "clean": true,
+  "secrets": [],
+  "needs_browser": false
+}
